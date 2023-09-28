@@ -78,7 +78,7 @@ Após leitura e compreensão dos requisitos do projeto, elaboramos um sumário q
 | Quem fará | Tempo de Execução  | Descrição                                                       | 
 |-----------|--------------------|-----------------------------------------------------------------|
 | Lucas     | 1 hora             | Continuar o desenvolvimento do Plano de Negócios                |
-| Pedro     | 1 hora             | Revisar e aprimorar a introdução e o resumo                     |
+| Allan     | 1 hora             | Revisar e aprimorar a introdução e o resumo                     |
 
 ### Dia 3: Requisitos e Diagramas (2 horas)
 
@@ -100,15 +100,15 @@ Após leitura e compreensão dos requisitos do projeto, elaboramos um sumário q
 
 | Quem fará | Tempo de Execução  | Descrição                                                      | 
 |-----------|--------------------|----------------------------------------------------------------|
-| Pedro     | 1 hora             | Preparar o Termo de Abertura de Projeto                        |
-| Lucas     | 1 hora             | Criar a Matriz de Papéis e Responsabilidades                   |
+| Allan     | 1 hora             | Preparar o Termo de Abertura de Projeto                        |
+| Allan     | 1 hora             | Criar a Matriz de Papéis e Responsabilidades                   |
 
 ### Dia 6: Gerenciamento de Projeto (2 horas)
 
 | Quem fará | Tempo de Execução  | Descrição                                                      | 
 |-----------|--------------------|----------------------------------------------------------------|
-| Pedro     | 1 hora             | Continuar o Termo de Abertura de Projeto                       |
-| Lucas     | 1 hora             | Completar a Matriz de Papéis e Responsabilidades               |
+| Allan     | 1 hora             | Continuar o Termo de Abertura de Projeto                       |
+| Allan     | 1 hora             | Completar a Matriz de Papéis e Responsabilidades               |
 
 ### Dia 7: Conclusão (2 horas)
 
