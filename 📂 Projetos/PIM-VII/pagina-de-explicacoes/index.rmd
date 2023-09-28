@@ -1,7 +1,7 @@
 ---
 title: "PIM VII"
 date: "26/09/2023"
-author: "Pedro Laurenti e Lucas Andrade"
+author: "Pedro Laurenti, Lucas Andrade e Allan Candido"
 output:
   rmdformats::downcute:
     thumbnails: true
@@ -146,6 +146,7 @@ Agradeço a disposição de todos neste projeto, espero que façamos história c
 - Integrantes:
   - Pedro José Laurenti de Matos (RA: 0621134)
   - Lucas Andrade da Silva (RA: 0621821)
+  - Allan Candido Mendes (RA: 0618169)
 
 ## Leia aqui
 
